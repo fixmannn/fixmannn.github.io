@@ -1,0 +1,25 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.clients img {
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+.tokopedia-img {
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px 0;
+}
+
+footer {
+    padding: 20px 0;
+}
